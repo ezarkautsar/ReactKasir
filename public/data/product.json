@@ -1,0 +1,11 @@
+{
+    "produk":[
+        {
+            "nama": "Indomie",
+            "price": 3000,
+            "desc": "Makanan Instan",
+            "stock": 20,
+            "urlPoster":"https://images.says.com/uploads/story_source/source_image/660200/c12a.jpg"
+        }
+    ]
+}
