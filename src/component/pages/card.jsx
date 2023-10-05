@@ -2,7 +2,7 @@ function Card() {
   return (
     <>
       <div className="w-full px-4 lg:w-1/2 xl:w-1/5 mt-6">
-        <div className="bg-white rounded-lg overflow-hidden shadow-lg mb-12">
+        <div className="bg-white rounded-lg overflow-hidden shadow-lg mb-10">
           <img
             src="https://source.unsplash.com/200x200?clothes"
             alt="draw"
